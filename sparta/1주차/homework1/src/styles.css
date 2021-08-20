@@ -1,0 +1,32 @@
+
+.imgs{
+    width: 80%;
+    margin: 16px;
+}
+
+.title{
+    font-size: 1.5em;
+    margin: 0px;
+    line-height: 1.4;
+}
+
+.names{
+    background-color: #fef5d4;
+    padding : 5px 10px;
+    border-radius: 30px;
+}
+
+.inputss{
+    padding: 10px;
+    margin: 24px 0px;
+    border: 1px solid #dadafc;
+    border-radius: 30px;
+    width: 100%;
+}
+
+.butt{
+    padding: 8px 24px;
+    background-color: #dadafc;
+    border-radius: 30px;
+    border: #dadafc;
+}
